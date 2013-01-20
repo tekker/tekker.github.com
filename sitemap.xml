@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://tekker.github.com/blog/2013/01/20/title/</loc>
+        <lastmod>2013-01-20T12:43:33+11:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tekker.github.com/blog/archives/</loc>
+        <lastmod>2013-01-20T12:43:33+11:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tekker.github.com/</loc>
+        <lastmod>2013-01-20T12:43:33+11:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tekker.github.com/robots.txt</loc>
+        <lastmod>2013-01-20T12:36:26+11:00</lastmod>
+    </url>
+</urlset>
